@@ -1,0 +1,6 @@
+{   
+    "tabbar":"search",
+    "@tabbar":{
+        "description": "A gendered message"
+    }
+}
